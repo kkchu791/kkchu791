@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @kkchu791
-- 👀 I’m interested in working on OurTracksApp.
+- 👀 I’m working on OurTracksApp - long term goals app tracking app.
