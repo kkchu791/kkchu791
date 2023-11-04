@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @kkchu791
-- 👀 I’m working on OurTracksApp - long term goals app tracking app.
+- 👀 I’m working on OurTracksApp - a designing long term stuff to do scheduler app.
